@@ -15,6 +15,7 @@ $pay_key="rzp_live_YthCWBpOyjjhUW";
 					<div class="row">
 						<div class="col-md-12 text-center">
 							<h1 class="section-blog-title">Active Seven Pass</h1>
+							Brook was here.
 						</div>
 					</div>
 				</div>
