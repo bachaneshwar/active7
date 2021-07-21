@@ -1,0 +1,11 @@
+<?php
+if(!isset($_SESSION)){
+session_start();
+}
+unset($_SESSION[tarctrl_cpanel]);
+unset($_SESSION[login_type]);
+unset($_SESSION[userid]);
+unset($_SESSION[employee_id]);
+unset($_SESSION[timestamp]);
+header("location:index.php");
+?>
